@@ -7,28 +7,28 @@ const moocscards = [
  
   {
     title: "Introduction to HTML 5",
-    cardImage: "assets/images/education-page/udacity_logo.png",
+    cardImage: "assets/images/education-page/coursera1.png",
     moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
   },
   {
     title: "Introduction to CSS 3",
-    cardImage: "assets/images/education-page/udacity_logo.png",
+    cardImage: "assets/images/education-page/coursera1.png",
     moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
   },
   {
     title: "Javascript",
-    cardImage: "assets/images/education-page/udacity_logo.png",
+    cardImage: "assets/images/education-page/coursera1.png",
     moocLink: "https://www.udacity.com/course/intro-to-javascript--ud803",
   },
   {
     title: "Bootstrap 4",
-    cardImage: "assets/images/education-page/udemy.png",
+    cardImage: "assets/images/education-page/coursera1.png",
     moocLink: "https://www.udemy.com/course/bootstrap-4-tutorials/",
   },
   
   {
     title: "Data Structures & Algorithms",
-    cardImage: "assets/images/education-page/udacity_logo.png",
+    cardImage: "assets/images/education-page/coursera1.png",
     moocLink: "https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256",
   },
 ];
