@@ -6,20 +6,20 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "Quiz App",
+    title: "Task 2",
     cardImage: "assets/images/project-page/quiz.jpg",
-    description: "A quiz app built using basic react.",
+    description: "Task 2 Visit Website",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "",
-    Githublink: "",
+    Previewlink: "https://shalini2203.github.io/task2/TASK2.html",
+    Githublink: "https://shalini2203.github.io/task2/TASK2.html",
   },
   {
-    title: "Chess Engine",
+    title: "Task 3",
     cardImage: "assets/images/project-page/chess.jpg",
-    description: "A chess engine for a popular game dev engine.",
+    description: "Web Page Design",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
-    Previewlink: "",
-    Githublink: "",
+    Previewlink: "https://shalini2203.github.io/WebPageDesign/index.html",
+    Githublink: "https://shalini2203.github.io/WebPageDesign/index.html",
   },
   {
     title: "Flappy Bird",
