@@ -30,11 +30,11 @@ const projects = [
     Githublink: "https://shalini2203.github.io/shalini-task4/rest.Html",
   },
   {
-    title: "Exercise Tracker",
+    title: "Task5",
     cardImage: "assets/images/project-page/exercise.jpg",
     description: "Exercise tracker built using basic redux.",
     tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
-    Previewlink: "",
+    Previewlink: "https://shalini2203.github.io/tasks-5/boot.html,
     Githublink: "",
   },
   {
