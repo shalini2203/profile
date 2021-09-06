@@ -23,7 +23,7 @@ const projects = [
   },
   {
     title: "Task 4",
-    cardImage: "assets/images/project-page/fTask4.png",
+    cardImage: "assets/images/project-page/Task4.png",
     description: "Flappy bird game built using React.js",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "https://shalini2203.github.io/shalini-task4/rest.Html",
